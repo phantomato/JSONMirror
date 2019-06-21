@@ -1,2 +1,2 @@
 # JSONMirror
-A simple utility that converts Swift objects into a dictionary/array
+A simple utility that converts Swift objects into a dictionary/array using Mirror
